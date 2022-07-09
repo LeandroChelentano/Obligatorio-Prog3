@@ -1,0 +1,14 @@
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\DominioBD.dll.config
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\DominioBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\DominioBD.pdb
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\ModeloBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\PersistenciaBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\ModeloBD.pdb
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\ModeloBD.dll.config
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\PersistenciaBD.pdb
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\bin\Debug\PersistenciaBD.dll.config
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\obj\Debug\DominioBD.csproj.AssemblyReference.cache
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\obj\Debug\DominioBD.csproj.CoreCompileInputs.cache
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\obj\Debug\DominioBD.csproj.CopyComplete
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\obj\Debug\DominioBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\DominioBD\obj\Debug\DominioBD.pdb

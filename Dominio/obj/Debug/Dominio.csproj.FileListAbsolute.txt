@@ -1,0 +1,15 @@
+C:\Users\lchel\Desktop\Obligatorio\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\lchel\Desktop\Obligatorio\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Modelo.dll
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Persistencia.dll
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Modelo.pdb
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Modelo.dll.config
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Persistencia.pdb
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Persistencia.dll.config
+C:\Users\lchel\Desktop\Obligatorio\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\lchel\Desktop\Obligatorio\Dominio\obj\Debug\Dominio.pdb
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\lchel\Desktop\Obligatorio\Dominio\bin\Debug\Dominio.exe
+C:\Users\lchel\Desktop\Obligatorio\Dominio\obj\Debug\Dominio.csproj.SuggestedBindingRedirects.cache
+C:\Users\lchel\Desktop\Obligatorio\Dominio\obj\Debug\Dominio.exe

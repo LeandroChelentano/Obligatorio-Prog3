@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Web.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+  <title><%: Page.Title %> - Prog. 3 - Obl.1</title>
+  <link rel="stylesheet" runat="server" media="screen" href="~/Content/admin.css" />
+</head>
+<body>
+  <form id="form1" runat="server">
+    <div id="root">
+      <aside>
+        <ul>
+          <li>
+            <a href="/admin">Home</a>
+          </li>
+          <li>
+            <a href="/admin/repuestos">Repuestos</a>
+          </li>
+          <li>
+            <a href="/admin/personas">Personas</a>
+          </li>
+          <li>
+            <a href="/admin/reparaciones">Reparaciones</a>
+          </li>
+          <li>
+            <a href="/admin/marcas">Marcas</a>
+          </li>
+          <li>
+            <a href="/admin/proveedores">Proveedores</a>
+          </li>
+          <li>
+            <a href="/admin/mecanicos">Mecanicos</a>
+          </li>
+          <li>
+            <a href="/admin/estadisticas">Estadisticas</a>
+          </li>
+        </ul>
+      </aside>
+      <div id="content">
+        <h1 id="title"><%: Page.Title %></h1>
+        <hr />
+        <main>
+          <asp:ContentPlaceHolder ID="AdminPageContent" runat="server">
+          </asp:ContentPlaceHolder>
+        </main>
+      </div>
+    </div>
+  </form>
+</body>
+</html>

@@ -1,0 +1,94 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+main {
+  padding-top: 93px;
+  display: flex;
+}
+
+nav {
+  z-index: 1;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  top: 61px;
+  padding: 5px 0;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(128, 128, 128, 0.584);
+  backdrop-filter: blur(3px);
+  border-bottom: 1px solid gray;
+  z-index: 1;
+}
+
+article {
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.467);
+  backdrop-filter: blur(3px);
+  border: 1px solid gray;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 3px;
+}
+
+  article h2 {
+    font-size: 1.3rem;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  article div {
+    margin-top: 5px;
+  }
+
+    article div p {
+      display: inline-block;
+      text-align: end;
+      width: 140px;
+    }
+
+    article div select,
+    article div input[type="text"],
+    article div input[type="number"],
+    table {
+      width: 200px;
+      padding: 3px 5px;
+    }
+
+.buttons {
+  width: 100%;
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+  .buttons input[type="submit"] {
+    padding: 3px 5px;
+    cursor: pointer;
+    width: fit-content;
+  }
+
+.dataList {
+  width: 330px;
+  height: 130px;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+summary {
+  margin-top: 10px;
+}

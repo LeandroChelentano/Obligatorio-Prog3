@@ -1,0 +1,7 @@
+C:\proyectos\pruebas\.net\ejemploBD\ModeloBD\bin\Debug\ModeloBD.dll.config
+C:\proyectos\pruebas\.net\ejemploBD\ModeloBD\bin\Debug\ModeloBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\ModeloBD\bin\Debug\ModeloBD.pdb
+C:\proyectos\pruebas\.net\ejemploBD\ModeloBD\obj\Debug\ModeloBD.csproj.AssemblyReference.cache
+C:\proyectos\pruebas\.net\ejemploBD\ModeloBD\obj\Debug\ModeloBD.csproj.CoreCompileInputs.cache
+C:\proyectos\pruebas\.net\ejemploBD\ModeloBD\obj\Debug\ModeloBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\ModeloBD\obj\Debug\ModeloBD.pdb

@@ -1,0 +1,2 @@
+Es probable que los requerimientos sean ampliados en el paso del tiempo,
+añadiendo funcionalidades de utilidad.

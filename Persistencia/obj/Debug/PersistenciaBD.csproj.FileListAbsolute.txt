@@ -1,0 +1,11 @@
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\bin\Debug\PersistenciaBD.dll.config
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\bin\Debug\PersistenciaBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\bin\Debug\PersistenciaBD.pdb
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\bin\Debug\ModeloBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\bin\Debug\ModeloBD.pdb
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\bin\Debug\ModeloBD.dll.config
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\obj\Debug\PersistenciaBD.csproj.AssemblyReference.cache
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\obj\Debug\PersistenciaBD.csproj.CoreCompileInputs.cache
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\obj\Debug\PersistenciaBD.csproj.CopyComplete
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\obj\Debug\PersistenciaBD.dll
+C:\proyectos\pruebas\.net\ejemploBD\PersistenciaBD\obj\Debug\PersistenciaBD.pdb

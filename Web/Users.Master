@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Users.master.cs" Inherits="Web.Users" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+  <title><%: Page.Title %> - Obl. 1 - Prog. 3</title>
+  <link rel="stylesheet" runat="server" media="screen" href="~/Content/Nav.css" />
+  <link rel="stylesheet" runat="server" media="screen" href="~/Content/Usuarios.css" />
+
+
+  <asp:PlaceHolder runat="server">
+    <%: Scripts.Render("~/bundles/modernizr") %>
+  </asp:PlaceHolder>
+</head>
+<body>
+  <form id="form1" runat="server">
+    <nav>
+      <div class="nav-left">
+        <img src="https://e7.pngegg.com/pngimages/911/156/png-clipart-car-auto-mechanic-car-repair-logo.png" alt="logo">
+        <h1 class="nav-title">Obligatorio Prog. 3</h1>
+      </div>
+      <div class="nav-right">
+        <ul>
+          <li>
+            <a href="/">Inicio</a>
+          </li>
+          <li>
+            <asp:LinkButton runat="server" Text="Cerrar sesion" ID="logout1" OnClick="logout1_Click" />
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <main>
+      <header>
+        <ul>
+          <li>
+            <a href="/usuario/vehiculos">Vehiculos</a>
+          </li>
+          <li>
+            <a href="/usuario/reparaciones">Reparaciones</a>
+          </li>
+        </ul>
+      </header>
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      </asp:ContentPlaceHolder>
+    </main>
+  </form>
+</body>
+</html>

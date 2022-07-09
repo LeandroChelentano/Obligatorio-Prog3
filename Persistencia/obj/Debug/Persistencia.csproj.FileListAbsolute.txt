@@ -1,0 +1,11 @@
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\bin\Debug\Modelo.dll
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\bin\Debug\Modelo.dll.config
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\lchel\Desktop\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb

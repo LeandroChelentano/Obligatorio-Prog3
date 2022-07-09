@@ -1,0 +1,212 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-image: url("https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/article/public/field/image/rs930_135120665-low.jpg?itok=g5LI5W4C");
+}
+
+#root, aside {
+  backdrop-filter: blur(5px);
+}
+
+aside, article {
+  background-color: rgba(255, 255, 255, 0.284);
+  background-size: cover;
+}
+
+#root {
+  min-height: 100vh;
+  height: fit-content;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 0;
+}
+
+aside {
+  height: 100vh;
+  width: fit-content;
+  padding: 1em 0;
+  border-right: 1px solid black;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  padding: 1em;
+  cursor: pointer;
+}
+
+#content {
+  padding: .5em 1em;
+  width: 100%;
+}
+
+hr {
+  margin-bottom: .5em;
+  border: 1px solid black;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+#title {
+  font-size: 1.6rem;
+}
+
+article {
+  padding: .5em 1em;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+.article-title {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+article hr {
+  margin: .3em 0 .5em 0;
+}
+
+.article-body {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.article-body-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+  .article-body-row p {
+    width: 35%;
+    text-align: end;
+  }
+
+  .article-body-row input[type='text'], .checkbox-row, select {
+    width: 65%;
+    padding: 2px 4px;
+  }
+
+  .article-body-row input[type='text'], .article-body-row input[type='number'] {
+    width: 65%;
+    padding: 2px 4px;
+  }
+
+.checkbox-row {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+  .checkbox-row input {
+    margin-right: 10px;
+  }
+
+.article-body-row input[type='text']:active {
+  outline: none;
+}
+
+textarea {
+  width: 229px;
+  height: 100px;
+  resize: none;
+}
+
+.article-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 5px;
+}
+
+  .article-buttons input[type="submit"] {
+    width: 25%;
+    padding: 2px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: white;
+  }
+
+    .article-buttons input[type="submit"]:hover {
+      backdrop-filter: blur(5px);
+      background-color: rgba(255, 255, 255, 0.517);
+      border: 1px solid gray;
+    }
+
+.articleRoot {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.display {
+  height: 100%;
+  width: 350px;
+}
+
+.w-full {
+  width: 420px !important;
+  height: 200px;
+}
+
+.root {
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+  .top div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+  }
+
+    .top div p {
+      margin: 0;
+    }
+
+.wide {
+  width: 100%;
+}
+
+.cmb {
+  width: 250px;
+}
+
+.amount {
+  width: 100px;
+}

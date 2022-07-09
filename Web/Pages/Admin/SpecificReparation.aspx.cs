@@ -131,8 +131,9 @@ namespace Web.Pages.Admin {
       txtAmount.Text = "1";
 
       listAsociados.Items.Clear();
-      foreach (RepuestoCantidad RC in reparacion.RepuestosUsados)
-        listAsociados.Items.Add(new ListItem(RC.ToString(), RC.Repuesto.Codigo));
+      if (reparacion.RepuestosUsados != null)
+        foreach (RepuestoCantidad RC in reparacion.RepuestosUsados)
+          listAsociados.Items.Add(new ListItem(RC.ToString(), RC.Repuesto.Codigo));
     }
 
     protected void Unnamed1_Click(object sender, EventArgs e) {

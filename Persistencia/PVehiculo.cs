@@ -180,7 +180,7 @@ namespace Persistencia {
 
         return rowsAffected > 0;
       } catch {
-        throw;
+        //throw;
         return false;
       }
     }

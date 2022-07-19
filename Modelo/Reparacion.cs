@@ -5,7 +5,7 @@ namespace Modelo {
   public class Reparacion {
     private Reserva reserva;
     private Mecanico mecanico = null;
-    private List<RepuestoCantidad> repuestosUsados;
+    private List<RepuestoCantidad> repuestosUsados = new List<RepuestoCantidad>();
     private double costo;
     private DateTime finalizada;
     private string descEntrada;

@@ -157,6 +157,7 @@ namespace Web.Pages.Admin {
 
       bool alreadyAdded = false;
       int amountAlreadyAdded = 0;
+
       foreach (RepuestoCantidad RC in reparacion.RepuestosUsados)
         if (RC.Repuesto.Codigo == rep.Codigo) {
           alreadyAdded = true;
